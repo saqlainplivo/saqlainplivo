@@ -64,6 +64,10 @@
 
 ###
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=saqlainplivo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=saqlainplivo&theme=tokyonight) <br>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saqlainplivo&layout=compact&theme=tokyonight)
+
 <div align="left">
 </div>
 
